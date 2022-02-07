@@ -1,5 +1,5 @@
 /*
-Q11. Design classes having attributes and methods (only skeleton) for a coffee shop. There are three different actors in 
+Q11. Design classes having attributes and methods (only skeleton) for a coffee shop. There are three different actors in  
 our scenario and I have listed the different actions they do also below
 
 * Customer
