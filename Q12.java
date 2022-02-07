@@ -1,4 +1,4 @@
-//Q12. Create a custom exception that do not have any stack trace
+//Q12. Create a custom exception that do not have any stack trace 
 import java.util.Scanner;
 
 public class Q12 {
