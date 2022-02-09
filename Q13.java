@@ -49,8 +49,11 @@ class bookCase{
 interface Library{
     public String issueBook();
 }
+abstract class GetBookFromCase{
+    abstract public String issueBook();
+}
 
-class Librarian implements Library{
+class Librarian extends GetBookFromCase implements Library{
     bookCase b = new bookCase();
     Scanner scanner= null;
     public void BookPresentInLibrary(){
